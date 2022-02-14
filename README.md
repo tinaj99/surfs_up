@@ -9,11 +9,11 @@ The objective of this analysis is to analyze and visualize climate data to prepa
 
 The following images shows us the temperature at Oahu in the month of June and December:
 
-###Temperature at Oahu in the month of June
+### Temperature at Oahu in the month of June
 
 ![](Resources/JUNE_TEMP.PNG)
  
-###Temperature at Oahu in the month of December
+### Temperature at Oahu in the month of December
 
 ![](Resources/DECEMBER_TEMP.PNG)
 
@@ -35,5 +35,5 @@ As the weather in the month of June and December look quite similar except that 
 
 Additional queries that can be performed to gather more weather data for June and December:
 
-1) We can perform precipation analysis for both the months for comparision purposes.
+1) We can perform precipitation analysis for both the months for comparision purposes.
 2) We can also perform station wise analysis so that we  have enough data collection stations for this information to be valid to figure out which stations tend to have the most precipitation recordings.
